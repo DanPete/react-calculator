@@ -8,6 +8,7 @@ body {
   align-items: center;
   background: #EAEBEC;
   height: 100vh;
+  margin: 0
 }
 
 .calculator {
@@ -53,7 +54,7 @@ body {
     font-size: 2em;
     height: 75px;
     width: 25%;
-    transition: all 0.2s;
+    transition: background-color 0.2s, color 0.2s;
     // &:nth-child(5) {
     //   border-top: none;
     //  border-left: none;
@@ -64,7 +65,7 @@ body {
     // &:nth-child(9), &:nth-child(13), &:nth-child(17) {
     //   border-left: none;
     // }
-    &.active {
+    &.active, &.operation.active, &#equals.active {
       background-color: #E0B612;
     }
     &.blank {

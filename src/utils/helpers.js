@@ -1,6 +1,7 @@
 export const activeClass = (selector) => {
+  console.log(selector)
   selector.classList.add('active')
-  setTimeout(() => {
+  selector.addEventListener('transitionend', () => {
     selector.classList.remove('active')
-  }, 200);
+  })
 }
