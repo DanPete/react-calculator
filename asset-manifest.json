@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DanPete/react-calculator/static/css/main.72f2d982.chunk.css",
+    "main.js": "/DanPete/react-calculator/static/js/main.8fe8552c.chunk.js",
+    "main.js.map": "/DanPete/react-calculator/static/js/main.8fe8552c.chunk.js.map",
+    "runtime-main.js": "/DanPete/react-calculator/static/js/runtime-main.ff0e3701.js",
+    "runtime-main.js.map": "/DanPete/react-calculator/static/js/runtime-main.ff0e3701.js.map",
+    "static/js/2.09fd4fdd.chunk.js": "/DanPete/react-calculator/static/js/2.09fd4fdd.chunk.js",
+    "static/js/2.09fd4fdd.chunk.js.map": "/DanPete/react-calculator/static/js/2.09fd4fdd.chunk.js.map",
+    "index.html": "/DanPete/react-calculator/index.html",
+    "precache-manifest.7b1bcfd458a4720c25ba5bf5048ef2cb.js": "/DanPete/react-calculator/precache-manifest.7b1bcfd458a4720c25ba5bf5048ef2cb.js",
+    "service-worker.js": "/DanPete/react-calculator/service-worker.js",
+    "static/css/main.72f2d982.chunk.css.map": "/DanPete/react-calculator/static/css/main.72f2d982.chunk.css.map",
+    "static/js/2.09fd4fdd.chunk.js.LICENSE.txt": "/DanPete/react-calculator/static/js/2.09fd4fdd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff0e3701.js",
+    "static/js/2.09fd4fdd.chunk.js",
+    "static/css/main.72f2d982.chunk.css",
+    "static/js/main.8fe8552c.chunk.js"
+  ]
+}
